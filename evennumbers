@@ -1,1 +1,5 @@
-x=int(input("enter a value"))
+num=int(input("enter a value"))
+if num%2==0:
+  print("Even number")
+else:
+  print("Odd")
